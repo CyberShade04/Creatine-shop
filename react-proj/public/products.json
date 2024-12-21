@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Creatine 100g",
+        "price": 195,
+        "image": "100g.png",
+        "height": "250px",
+        "width": "250px"
+    },
+    {
+        "id": 2,
+        "name": "Creatine 1kg",
+        "price": 639,
+        "image": "1kg.png",
+        "height": "250px",
+        "width": "250px"
+    },
+    {
+        "id": 3,
+        "name": "Creatine Capsules",
+        "price": 324,
+        "image": "capsule.png",
+        "height": "250px",
+        "width": "250px"
+    },
+    {
+        "id": 4,
+        "name": "Creatine Gummies",
+        "price": 314,
+        "image": "gummies.png",
+        "height": "250px",
+        "width": "250px"
+    },
+    {
+        "id": 5,
+        "name": "Creatine Micronized 300g",
+        "price": 422,
+        "image": "micronized.png",
+        "height": "250px",
+        "width": "250px"
+    },
+    {
+        "id": 6,
+        "name": "Creatine Monohydrate 300g",
+        "price": 399,
+        "image": "monohydrate.png",
+        "height": "250px",
+        "width": "250px"
+    }
+]
